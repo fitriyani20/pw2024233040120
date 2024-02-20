@@ -1,0 +1,14 @@
+.box{
+    display: flex;
+}
+
+.box-child {
+    background: brown;
+    border: 1px solid #000;
+    width: 100px;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: bold;
+}
